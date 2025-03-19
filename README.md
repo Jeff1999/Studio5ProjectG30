@@ -1,6 +1,6 @@
 Here the features implemented with demos at the bottom: 
-- 3.2 - Score HUD
-- 3.6 - Camera Shake
+- 3.2 - Score HUD (Mridul Nohria)
+- 3.6 - Camera Shake (Jeffrey Paller)
 
   
 
